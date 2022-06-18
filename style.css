@@ -1,0 +1,262 @@
+.heading{
+    margin-top: 64px ;
+    margin-left: 240px;
+    margin-right: 1019.98px;
+    /* margin-bottom: 1031.94px; */
+    /* width: 180px;
+    height: 44px;
+    top: 64.06px;
+    left: 240px; */
+}
+.email
+{
+    /* margin-top: 196.02px ; */
+    margin-left: 241px;
+    margin-right: 1158.99px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Gray 3 */
+
+color: #828282;
+}
+/* 
+.email img {
+        position: absolute;
+        left: 8.33%;
+        right: 8.33%;
+        top: 16.67%;
+        bottom: 16.67%;
+        background: #828282;
+        height: 50px;
+}
+ */
+
+
+.emailbox {
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Gray 3 */
+
+color: #828282;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 735px;
+    width: 380px;
+    height: 30px;
+    border-radius: 10px;
+    background-image: ("mail.jpg");
+    
+    background-image: url("1.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.phone
+{
+    /* margin-top: 196.02px ; */
+    margin-left: 241px;
+    margin-right: 1158.99px;
+}
+.phonebox {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 735px;
+    width: 380px;
+    height: 30px;
+    border-radius: 10px;
+    background-image: url("2.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+    
+
+.fname{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Gray 3 */
+
+color: #828282;
+    /* margin-top: 467px; */
+    margin-left: 240px;
+    /* margin-right: 1137.99px; */
+
+}
+.fnamebox{
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 735px;
+    width: 380px;
+    height: 30px;
+    border-radius: 10px;
+    background-image: url("3.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+    
+}
+.fnamebox2{
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 735px;
+    width: 380px;
+    height: 30px;
+    border-radius: 10px;
+    background-image: url("5.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.fnamebox1{
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 735px;
+    width: 380px;
+    height: 30px;
+    border-radius: 10px;
+    background-image: url("4.png");
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.countrybox{
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 735px;
+    width: 190px;
+    height: 30px;
+    border-radius: 10px;
+    background-image: url("6.png");
+    background-position: left ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.postalbox{
+    margin-top: 10px;
+    margin-left: 2px;
+    margin-right: 735px;
+    width: 190px;
+    height: 30px;
+    border-radius: 10px;
+    background-image: url("7.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.fpostal{
+    margin-left: 460px;
+}
+.button{
+    position: absolute;
+width: 166px;
+height: 54px;
+left: 539px;
+top: 800px;
+
+/* Orange */
+
+background: #F2994A;
+border-radius: 12px;
+}
+
+.fname1{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Gray 3 */
+
+color: #828282;
+    /* margin-top: 467px; */
+    margin-left: 240px;
+    /* margin-right: 1137.99px; */
+
+}
+    
+
+
+.fname2{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Gray 3 */
+
+color: #828282;
+    /* margin-top: 467px; */
+    margin-left: 240px;
+    /* margin-right: 1137.99px; */
+
+}
+    
+
+
+.fname3{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Gray 3 */
+
+color: #828282;
+    /* margin-top: 467px; */
+    margin-left: 240px;
+    /* margin-right: 1137.99px; */
+
+}
+    
+.fname4{
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+/* Gray 3 */
+
+color: #828282;
+    /* margin-top: 467px; */
+    margin-left: 240px;
+    /* margin-right: 1137.99px; */
+
+    
+}
